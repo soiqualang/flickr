@@ -1,0 +1,29 @@
+https://www.flickr.com/services/apps/72157697496033421/?action=privacy
+
+Done! Here's the API key and secret for your new app:
+	dtlong_app1
+Key:
+ebba237355f8b84de50d168b5acae0d0
+
+Secret:
+9e1ae67320f220a3
+
+Edit app details - Edit auth flow for this app - View all Apps by You
+
+http://dev.dothanhlong.org/flickr/
+
+
+https://www.flickr.com/services/api/explore/flickr.test.login
+
+https://www.flickr.com/services/auth/?api_key=ebba237355f8b84de50d168b5acae0d0&perms=write&api_sig=e476439b805ecff23631dac7fdb2469b
+
+{
+	"user": {
+		"id": "165774265@N05",
+		"username": {
+			"_content": "soiqualang"
+		},
+		"path_alias": ""
+	},
+	"stat": "ok"
+}
